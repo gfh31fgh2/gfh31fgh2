@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gfh31fgh2
+- 👋 Hi, I’m Senior DevOps @gfh31fgh2
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me - only email
