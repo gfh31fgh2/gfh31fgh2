@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gfh31fgh2
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on any interesing
 - 📫 How to reach me - only email
 
 <!---
