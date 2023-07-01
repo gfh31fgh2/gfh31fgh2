@@ -3,6 +3,12 @@
 - 🌱 I’m currently learning AWS
 - 📫 How to reach me - only email
 
+
+* * *
+### Terraform design for project
+Terraform архитектура под проект для ознакомления формата работы / Terraform architecture for project to see type of work
+https://github.com/gfh31fgh2/yandex-cloud-dev
+
 * * *
 ### Ansible with roles
 Автоматизация Ansible для нескольких серверов с ролями / Automatisation Ansible for few servers with roles functionality  
