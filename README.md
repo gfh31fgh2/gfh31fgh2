@@ -10,7 +10,7 @@ https://github.com/gfh31fgh2/ansible-some-work
 
 * * *
 ### Docker-compose
-Docker-compose билд созданный для разработчиков чтобы локально разрабатывать и тестировать новые функции / Docker-compose build created for local development for developers  
+Docker-compose билд созданный для разработчиков чтобы локально разрабатывать и тестировать новые функции (кастомный билд под кастомную CMS) / Docker-compose build created for local development for developers (special for custom CMS)
 https://github.com/gfh31fgh2/yii-docker-for-development
 
 * * *
