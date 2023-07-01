@@ -5,12 +5,12 @@
 
 
 * * *
-### Terraform design for project
+### Terraform архитектура под один из проектов / Terraform architecture for one of projects
 Terraform архитектура под проект для ознакомления формата работы (много файлов удалено, конфиденциальная информация стерта) / Terraform architecture for project to see type of work (a lot of files deleted, removed confidental information)
 https://github.com/gfh31fgh2/yandex-cloud-dev
 
 * * *
-### AWS Typescript архитектура под один из проектов
+### AWS Typescript архитектура под один из проектов  / AWS Typescript architecture for one of projects
 AWS Typescript архитектура под проект для ознакомления формата работы / AWS Typescript architecture for project to see type of work
 https://github.com/gfh31fgh2/aws-sites-rnd
 
