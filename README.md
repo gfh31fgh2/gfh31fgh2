@@ -5,7 +5,7 @@
 
 
 * * *
-### Terraform архитектура под один из проектов / Terraform architecture for one of projects
+### YC Terraform архитектура под один из проектов / YC Terraform architecture for one of projects
 Terraform архитектура под проект для ознакомления формата работы (много файлов удалено, конфиденциальная информация стерта) / Terraform architecture for project to see type of work (a lot of files deleted, removed confidental information)
 https://github.com/gfh31fgh2/yandex-cloud-dev
 
