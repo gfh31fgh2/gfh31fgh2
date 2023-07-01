@@ -10,7 +10,7 @@ Terraform архитектура под проект для ознакомлен
 https://github.com/gfh31fgh2/yandex-cloud-dev
 
 * * *
-### AWS Typescript архитектура под один из проектов (много файлов удалено, конфиденциальная информация стерта)
+### AWS Typescript архитектура под один из проектов
 AWS Typescript архитектура под проект для ознакомления формата работы / AWS Typescript architecture for project to see type of work
 https://github.com/gfh31fgh2/aws-sites-rnd
 
